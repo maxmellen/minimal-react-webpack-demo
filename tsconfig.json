@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "esnext",
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react",
+    "sourceMap": true
+  },
+  "include": ["src"]
+}
